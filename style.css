@@ -10,9 +10,9 @@ header {
     color: black;
     font-size: 50px;
     border-bottom: solid 2px rgb(51, 179, 51);
-    text-align: start;
+    text-align:justify;
 }
 
 iframe {
-
+    text-align: center;
 }
