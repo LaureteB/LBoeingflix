@@ -13,10 +13,18 @@ header {
     text-align:center;
 }
 
+body {
+    
+}
 
 *.nunito {
   font-family: "Nunito", sans-serif;
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
+}
+
+.chamada {
+    display: flex;
+    justify-content: center;
 }
