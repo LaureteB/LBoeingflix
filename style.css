@@ -12,3 +12,11 @@ header {
     border-bottom: solid 2px rgb(204, 22, 22);
     text-align:center;
 }
+
+
+*.nunito {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
