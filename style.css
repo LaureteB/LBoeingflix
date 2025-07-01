@@ -14,17 +14,20 @@ header {
 }
 
 body {
-    
-}
-
-*.nunito {
-  font-family: "Nunito", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: weight;
-  font-style: normal;
+ background-color: rgb(218, 255, 218);
 }
 
 .chamada {
     display: flex;
     justify-content: center;
+}
+
+.chamada-texto {
+ margin-right: 5%;
+}
+
+img {
+    height: 200px;
+    display: flex;
+    ov
 }
